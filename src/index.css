@@ -25,6 +25,18 @@ body {
   justify-content: center;
 }
 
+/*.App {
+  display: flex;
+}
+
+.sidebar {
+  width: 40%;
+}
+
+.main-content {
+  width: 70%;
+} */
+
 .app {
   min-height: 66vh;
   display: grid;
